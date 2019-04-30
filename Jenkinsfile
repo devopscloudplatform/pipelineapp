@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Greeting') {
       steps {
-        echo 'hello welcome to dcp'
+        echo 'hello welcome to devops platform'
       }
     }
   }
